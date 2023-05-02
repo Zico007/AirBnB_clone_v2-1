@@ -154,8 +154,7 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-DAVID JOHN - [Github](https://github.com/Mcsavvy) / [Twitter](https://twitter.com/davemcsavvy)  
-AL-MUKHTAR JAMILAT - [Github](https://github.com/didimukhtar) / [Twitter](https://twitter.com/didimukhtar)
+AL-MUKHTAR JAMILAT - [Github](https://github.com/didimukhtar)
 
 ## License
 Public Domain. No copy write protection. 
